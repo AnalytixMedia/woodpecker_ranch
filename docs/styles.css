@@ -271,6 +271,8 @@ a{color:inherit}
 }
 @media(max-width:560px){
   .gallery{grid-template-columns:repeat(2,1fr);padding-left:16px;padding-right:16px}
+  .map-section{padding-left:8px;padding-right:8px}
+  .map-wrap{max-width:calc(100% - 16px)}
   .hero__cta{top:16px;right:14px;padding:9px 15px;font-size:11px}
   .lb__btn{width:44px;height:44px}
   .lb__prev{left:8px}.lb__next{right:8px}
