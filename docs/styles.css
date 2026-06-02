@@ -154,7 +154,7 @@ a{color:inherit}
 }
 .map-wrap{
   position:relative;
-  max-width:752px;
+  max-width:min(1060px,calc(100% - 48px));
   margin:clamp(28px,4vw,46px) auto 0;
 }
 .map-wrap__img{
