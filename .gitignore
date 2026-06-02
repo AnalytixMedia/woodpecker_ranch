@@ -1,0 +1,5 @@
+capture/
+node_modules/
+screens/
+*.avif
+.DS_Store
